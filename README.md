@@ -1,7 +1,7 @@
 # 🧪 Analisis Kualitas Perangkat Lunak — ISO 9126
 
 > Studi Kasus Perbandingan: **Duolingo vs. Tokopedia**
-
+> 
 ![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?logo=vercel)
 ![HTML](https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -40,60 +40,16 @@ Analisis mencakup lima faktor kualitas utama ISO 9126 yang divisualisasikan seca
 
 ---
 
-## 🚀 Cara Menjalankan Lokal
-
-### 1. Clone repositori
-
-```bash
-git clone https://github.com/<username>/software-quality-analysis-iso9126.git
-cd software-quality-analysis-iso9126
-```
-
-### 2. Buka di browser
-
-Karena ini adalah proyek static web, cukup buka file utama:
-
-```bash
-# Opsi 1 — buka langsung
-open index.html
-
-# Opsi 2 — gunakan Live Server (VS Code extension)
-# Klik kanan index.html → "Open with Live Server"
-```
-
-Atau akses versi live di:
-🌐 **[tugas-penjami-kualisan-si.vercel.app](https://tugas-penjami-kualisan-si.vercel.app)**
-
----
-
-## 🗂️ Struktur Proyek
-
-```
-software-quality-analysis-iso9126/
-├── index.html          # Halaman utama
-├── css/
-│   └── style.css       # Styling aplikasi
-├── js/
-│   └── main.js         # Logic chart & interaksi
-└── assets/             # Gambar dan ikon
-```
+Akses versi live di:
+🌐 **[tugas-penjami-kualisan-si.vercel.app](https://tugas-penjami-kualisan-si.vercel.app/)**
 
 ---
 
 ## 📸 Preview
 
-![Preview](./assets/preview.png)
+![Preview](https://github.com/ilmalyakinn/assets/blob/3a599fea9e37ec1b10b225661236f3b9597a3fc5/Analisis%20Kualitas%20Perangkat%20Lunak.png)
 
 > Tampilan radar chart perbandingan kualitas Duolingo vs Tokopedia berdasarkan ISO 9126.
-
----
-
-## 👥 Anggota Kelompok
-
-| Nama | NIM |
-|------|-----|
-| _(isi nama)_ | _(isi NIM)_ |
-| _(isi nama)_ | _(isi NIM)_ |
 
 ---
 
